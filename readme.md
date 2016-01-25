@@ -2,3 +2,5 @@
 Hello, it's me, I was wondering...
 
 บลาบลา แก้ไขไฟล์โดย vim
+
+แก้ไขจาก gitrepo
